@@ -2,7 +2,7 @@
 ```markdown
 # Bus Route Management System
 
-A simple C++ program implementing a bus route management system using a **doubly linked list**. This project demonstrates the practical application of dynamic data structures for real-world route and station management.
+A simple C program implementing a bus route management system using a **doubly linked list**. This project demonstrates the practical application of dynamic data structures for real-world route and station management.
 
 Supports adding, inserting, deleting, searching stations, and displaying the route in both forward and backward directions.
 
